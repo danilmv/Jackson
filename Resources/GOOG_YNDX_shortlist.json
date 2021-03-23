@@ -1,0 +1,59 @@
+{
+  "quoteResponse": {
+    "resu  lt": [
+      {
+        "language": "en-US",
+        "region": "US",
+        "quoteType": "EQUITY",
+        "quoteSourceName": "Nasdaq Real Time Price",
+        "triggerable": true,
+        "regularMarketTime": 1616177584,
+        "regularMarketPrice": 2049.61,
+        "regularMarketPreviousClose": 2036.22,
+        "fullExchangeName": "NasdaqGS",
+        "regularMarketOpen": 2042.05,
+        "firstTradeDateMilliseconds": 1092922200000,
+        "priceHint": 2,
+        "sourceInterval": 15,
+        "exchangeDataDelayedBy": 0,
+        "exchange": "NMS",
+        "longName": "Alphabet Inc.",
+        "exchangeTimezoneName": "America/New_York",
+        "exchangeTimezoneShortName": "EDT",
+        "gmtOffSetMilliseconds": -14400000,
+        "market": "us_market",
+        "esgPopulated": false,
+        "tradeable": false,
+        "marketState": "REGULAR",
+        "symbol": "GOOG"
+      },
+      {
+        "language": "en-US",
+        "region": "US",
+        "quoteType": "EQUITY",
+        "quoteSourceName": "Nasdaq Real Time Price",
+        "triggerable": true,
+        "regularMarketTime": 1616177584,
+        "regularMarketPrice": 66.18,
+        "regularMarketPreviousClose": 65.23,
+        "fullExchangeName": "NasdaqGS",
+        "regularMarketOpen": 65.84,
+        "firstTradeDateMilliseconds": 1306243800000,
+        "priceHint": 2,
+        "sourceInterval": 15,
+        "exchangeDataDelayedBy": 0,
+        "exchange": "NMS",
+        "longName": "Yandex N.V.",
+        "exchangeTimezoneName": "America/New_York",
+        "exchangeTimezoneShortName": "EDT",
+        "gmtOffSetMilliseconds": -14400000,
+        "market": "us_market",
+        "esgPopulated": false,
+        "tradeable": false,
+        "marketState": "REGULAR",
+        "symbol": "YNDX"
+      }
+    ],
+    "error": null
+  }
+}
